@@ -1,8 +1,8 @@
-# TNT Labs
+# tntlabs
 
 > 이유가 있는 설계, 기능하는 프로덕트를 빚어냅니다.
 
-**TNT Labs**는 Apple Developer Academy @ POSTECH 출신 개발자들이 설립한 소프트웨어 개발 스타트업입니다. 치열하게 설계하고 집요하게 검증하여, 장식이 아닌 기능하는 프로덕트를 만듭니다.
+**tntlabs**는 Apple Developer Academy @ POSTECH 출신 개발자들이 설립한 소프트웨어 개발 스타트업입니다. 치열하게 설계하고 집요하게 검증하여, 장식이 아닌 기능하는 프로덕트를 만듭니다.
 
 ## What We Do
 
@@ -40,4 +40,4 @@
 |---|---|
 | Web | [tntlabs.kr](https://tntlabs.kr) |
 | Email | contact@tntlabs.kr |
-| Location | 경기도 성남시 분당구 판교로 700 |
+| Location | 경기도 성남시 분당구 판교공원로1길 66 |
